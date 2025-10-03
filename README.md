@@ -17,7 +17,7 @@ I'm a fullstack developer and sometimes I like to think I'm a bit of designer to
 
 
 <h2 align="right">Always Learning</h2>
-<p align="right">I believe that for IT professionals, learning is always a work in progress, picking up new things and practicing what we already know. This space will reflact that. Whether it's professional or study projects, rebuilding familiar ideas or trying out something new, creating great or even better projects, thats my journey.</p>
+<p align="right">I believe that for IT professionals, learning is always a work in progress, picking up new things and practicing what we already know. This space will reflect that. Whether it's professional or study projects, rebuilding familiar ideas or trying out something new, creating great or even better projects, thats my journey.</p>
 
 <p align="right">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lRods&theme=transparent&bg_color=0D1117&border_color=C7B6EA&show_icons=true&icon_color=AEBEEA&title_color=C7B6EA&text_color=96C6EA" />
