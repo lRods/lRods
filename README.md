@@ -1,10 +1,10 @@
-# Hello there, I'm Rodrigo... 👋
-**...but you can call me Rods!**
-I'm a fullstack developer and sometimes I like to think I'm a bit of designer too (I just fake it well). I'm passionate about building solid backends with a beaultiful look for users on the front.
+# Olá, eu sou o Rodrigo... 👋
+**...mas você pode me chamar de Rods!**
+<p>Sou um Desenvolvedor Full Stack com sólida experiência na construção e manutenção de aplicações web, atuando principalmente com desenvolvimento de backend utilizando .NET e ASP.NET Core, bancos de dados relacionais, e tecnologias modernas de frontend. </p>
 
 
-<h2 align="center">Professional Experience</h2>
-<p align="center">Most of my professional experience is in developing web applications with .NET and .NET Core. I mainly use SQL Server and MySQL for databases, and I've worked with all kind of frontends, from plain css to powerful frameworks like Angular. On the infra side, I used AWS for deployments, maneged S3 buckets, and set up Linux VPSs on different hosting plataforms.</p>
+<h2 align="center">Experiência</h2>
+<p align="center">Trabalho na área há 8 anos e tenho participado de projetos diversos, em várias etapas do ciclo de desenvolvimento de software, desde a análise de requisitos e implementação até a implantação e manutenção. Durante minha carreira, trabalhei com C#, ASP.NET, ASP.NET Core, JavaScript, TypeScript, Angular, SQL Server, MySQL, além de vivência com ambientes Linux, Docker e controle de versão com Git. </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-C7B6EA?style=for-the-badge&logo=dotnet&logoColor=333333" />
@@ -16,9 +16,5 @@ I'm a fullstack developer and sometimes I like to think I'm a bit of designer to
 </p>
 
 
-<h2 align="right">Always Learning</h2>
-<p align="right">I believe that for IT professionals, learning is always a work in progress, picking up new things and practicing what we already know. This space will reflect that. Whether it's professional or study projects, rebuilding familiar ideas or trying out something new, creating great or even better projects, thats my journey.</p>
-
-<p align="right">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lRods&theme=transparent&bg_color=0D1117&border_color=C7B6EA&show_icons=true&icon_color=AEBEEA&title_color=C7B6EA&text_color=96C6EA" />
-</p>
+<h2 align="right">Estudo Contínuo</h2>
+<p align="right">Atualmente, trabalho integralmente como desenvolvedor, mas também estou aprofundando meus estudos em segurança da informação e defesa cibernética, com foco em defesa ofensiva e ethical hacking. Meu objetivo é aplicar esses conhecimentos para garantir o desenvolvimento seguro de aplicações e a implementação de práticas defensivas eficazes.</p>
