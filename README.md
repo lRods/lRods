@@ -1,6 +1,5 @@
 # Olá, eu sou o Rodrigo... 👋
-**...mas você pode me chamar de Rods!**
-<p>Sou um Desenvolvedor Full Stack com sólida experiência na construção e manutenção de aplicações web, atuando principalmente com desenvolvimento de backend utilizando .NET e ASP.NET Core, bancos de dados relacionais, e tecnologias modernas de frontend. </p>
+<p><strong>...mas você pode me chamar de Rods!</strong> Sou um Desenvolvedor Full Stack com sólida experiência na construção e manutenção de aplicações web, atuando principalmente com desenvolvimento de backend utilizando .NET e ASP.NET Core, bancos de dados relacionais, e tecnologias modernas de frontend. </p>
 
 
 <h2 align="center">Experiência</h2>
